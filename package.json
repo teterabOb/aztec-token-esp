@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@aztec/accounts": "^0.37.0",
+    "@aztec/aztec.js": "^0.37.0"
+  }
+}
